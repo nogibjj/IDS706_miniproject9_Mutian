@@ -31,4 +31,8 @@ Donwload dataset from: https://www.kaggle.com/datasets/jesusgraterol/bitcoin-tak
   
 * Buy Sell Ratio Plot
   ![img](buy_sell_ratio_plot.png)
-  
+
+
+  ## Colab Link
+
+https://colab.research.google.com/github/nogibjj/IDS706_miniproject9_Mutian/blob/main/analysis.ipynb
