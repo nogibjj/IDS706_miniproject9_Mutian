@@ -17,6 +17,8 @@ Donwload dataset from: https://www.kaggle.com/datasets/jesusgraterol/bitcoin-tak
 * Datetime(Version 5.2)
 
 ## Output
+* General info:
+  <img width="1351" alt="image" src="https://github.com/nogibjj/IDS706_miniproject9_Mutian/assets/108935314/04e1c4a4-1bb0-4cec-8465-641badad9794">
 
 * Descriptive Statiscs:
   
@@ -32,7 +34,12 @@ Donwload dataset from: https://www.kaggle.com/datasets/jesusgraterol/bitcoin-tak
 * Buy Sell Ratio Plot
   ![img](buy_sell_ratio_plot.png)
 
-
-  ## Colab Link
+## Colab Link
 
 https://colab.research.google.com/github/nogibjj/IDS706_miniproject9_Mutian/blob/main/analysis.ipynb
+
+## Run
+
+
+ 1. To run locally, choose a directory and `git clone` this repo. Then use makefile commands like `make run`
+ 2. Or you can click on the colab link to run remotely.
